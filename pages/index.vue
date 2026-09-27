@@ -134,7 +134,11 @@ const skills = [
   },
   {
     name: 'reactjs',
-    progress: '35'
+    progress: '50'
+  },
+  {
+    name: 'nextjs',
+    progress: '30'
   },
   {
     name: 'git & github',
